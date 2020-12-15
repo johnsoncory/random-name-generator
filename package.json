@@ -1,6 +1,6 @@
 {
-  "name": "random-name-generator",
-  "version": "1.0.0",
+  "name": "cory-johnson-random-name-generator",
+  "version": "1.1.0",
   "description": "Get random series of names",
   "main": "src/index.js",
   "scripts": {
